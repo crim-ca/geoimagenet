@@ -18,4 +18,4 @@ In order to submit a new model to the platform, the following steps must be foll
 2. Add the model code to the [model repository](https://github.com/sfoucher/gin-model-repo) (by creating a fork of the repo)
 3. The trained model must be packaged using the [thelper](https://github.com/plstcharles/thelper) framework.
 
-### How to Use Annotations for Model Training
+### How to Use the Annotations for Model Training
