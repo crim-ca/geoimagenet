@@ -13,9 +13,11 @@ A few notebbooks are demonstrating the basic use cases of the platform. They can
 
 ### How to Package Your Model
 
-In order to submit a new model to the platform, the following steps must be followed:
+In order to submit a new model to the platform, the steps are the following:
 1. The model must be trained using PyTorch and the parameters saved as a .pth 
 2. Add the model code to the [model repository](https://github.com/sfoucher/gin-model-repo) (by creating a fork of the repo)
 3. The trained model must be packaged using the [thelper](https://github.com/plstcharles/thelper) framework.
+
+Two notebooks are available showing how to package a [ResNet](https://github.com/crim-ca/geoimagenet/blob/master/classif_model_packaging.ipynb)  and a [UNet](https://github.com/crim-ca/geoimagenet/blob/master/seg_model_packaging.ipynb).
 
 ### How to Use the Annotations for Model Training
