@@ -21,3 +21,4 @@ In order to submit a new model to the platform, the steps are the following:
 Two notebooks are available showing how to package a [ResNet](https://github.com/crim-ca/geoimagenet/blob/master/classif_model_packaging.ipynb)  and a [UNet](https://github.com/crim-ca/geoimagenet/blob/master/seg_model_packaging.ipynb).
 
 ### How to Use the Annotations for Model Training
+Coming soon...
