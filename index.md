@@ -1,4 +1,4 @@
-{::options auto_ids="false" /}
+
 ## Welcome to GeoImageNet Project
 
 
@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## How to Use the Annotations for Model Training
+## How to Use the Annotations for Model Training {#header1}
 Coming soon...
 
 ![Alt text](./img/Capture1.JPG)
@@ -16,6 +16,7 @@ Coming soon...
 ## Creating and Managing Annotations {#2}
 
 
+[Link back to header 1](#header1)
 
 ## Managing Models
 
