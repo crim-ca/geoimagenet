@@ -2,7 +2,7 @@
 ## Welcome to GeoImageNet Project
 
 
-![Alt text](./img/Capture1.JPG)
+![Alt text](./img/Capture1.JPG){: width="450px"}
 
 ## Creating and Managing Annotations {#annotations}
 
@@ -24,6 +24,7 @@ The following icons trigger different actions for the corresponding class (and i
 ### Workspace
 The workspace shows all the annotations for the classes slected in the taxonomy browser.
 ![Alt text](./img/Selection_014.jpg)
+
 Several modes are available:
 - Navigation mode: the user can click on the thumbnails and quickly navigate to the corresponding location
 - Editing mode: the user can edit new annotations only, the vector will appear in blue and a circle will appear along the shape
@@ -34,7 +35,7 @@ Several modes are available:
 ### Datasets {#datasets}
 The dataset section allows the user to donwload annotations and training data.
 
-![Alt text](./img/Capture4.JPG){: width="300px"}
+![Alt text](./img/Capture4.JPG){: width="450px"}
 
 Only administrator can create new datasets.
 
@@ -67,35 +68,6 @@ A few notebbooks are demonstrating the basic use cases of the platform. They can
 ## How to Use the Annotations for Model Training {#header1}
 Coming soon...
 
-
-
-## Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crim-ca/geoimagenet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
