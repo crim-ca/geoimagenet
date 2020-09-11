@@ -7,12 +7,20 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Welcome to GeoImageNet Project
 
 
 ![Alt text](./img/Capture1.JPG)
-{:toc}
+
 
 ## Creating and Managing Annotations {#annotations}
 
