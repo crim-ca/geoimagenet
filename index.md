@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/crim-ca/geoimagenet/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Alt text](./img/Capture1.png)
+![Alt text](./img/Capture1.jpg)
 
 ### Creating and Managing Annotations
 
