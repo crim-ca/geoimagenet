@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Navigation Structure
+parent: Home
 nav_order: 2
 ---
 
