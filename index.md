@@ -1,4 +1,4 @@
-{::options auto_ids="true" /}
+{::options auto_ids="false" /}
 ## Welcome to GeoImageNet Project
 
 
@@ -13,7 +13,7 @@ Coming soon...
 
 ![Alt text](./img/Capture1.JPG)
 
-## Creating and Managing Annotations
+## Creating and Managing Annotations {#2}
 
 
 
