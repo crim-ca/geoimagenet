@@ -37,6 +37,8 @@ The dataset section allows the user to donwload annotations and training data.
 
 ![Alt text](./img/Capture4.JPG){: width="450px"}
 
+You can click on Donwload.
+
 Only administrator can create new datasets.
 
 
