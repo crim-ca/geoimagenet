@@ -13,7 +13,7 @@ Coming soon...
 
 ![Alt text](./img/Capture1.JPG)
 
-## Creating and Managing Annotations {#2}
+## Creating and Managing Annotations 
 
 
 [Link back to header 1](#header1)
@@ -24,7 +24,7 @@ Coming soon...
 
 ### Pushing Models
 
-## API
+## API {#api}
 
 This documentation explains how to use the Machine Learning API from the  platform. The API is composed of two parts:
 1. Access to the annotations and the taxonomies: https://geoimagenet.ca/api/v1/redoc
