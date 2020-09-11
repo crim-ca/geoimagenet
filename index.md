@@ -2,21 +2,16 @@
 ## Welcome to GeoImageNet Project
 
 
-You can use the [editor on GitHub](https://github.com/crim-ca/geoimagenet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
-## How to Use the Annotations for Model Training {#header1}
-Coming soon...
-
 ![Alt text](./img/Capture1.JPG)
 
 ## Creating and Managing Annotations 
 
+### Taxonomy Browser
+The taxonomy browser shows one or two taxonomies as a tree. En cliquant sur chaque classe on peut accéder aux sous-classes éventuellement. À côté de chaque nom de classe est indiqué de l'information sur les annotations en cours. 
 
-[Link back to header 1](#header1)
+![Alt text](./img/Capture2.JPG)
+
+
 
 ## Managing Models
 
@@ -46,6 +41,11 @@ In order to submit a new model to the platform, the steps are the following:
 3. The trained model must be packaged using the [thelper](https://github.com/plstcharles/thelper) framework.
 
 Two notebooks are available showing how to package a [ResNet](https://github.com/crim-ca/geoimagenet/blob/master/classif_model_packaging.ipynb)  and a [UNet](https://github.com/crim-ca/geoimagenet/blob/master/seg_model_packaging.ipynb).
+
+## How to Use the Annotations for Model Training {#header1}
+Coming soon...
+
+
 
 ## Markdown
 
