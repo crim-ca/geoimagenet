@@ -12,6 +12,7 @@ last_modified_date: 2020-04-27T17:54:08+0000
 
 
 ![Alt text](./img/Capture1.JPG)
+{:toc}
 
 ## Creating and Managing Annotations {#annotations}
 
