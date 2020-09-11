@@ -31,9 +31,10 @@ Several modes are available:
 - Release mode: new annotations will be released for validation
 - Validation mode: new annotations that have been released can be validated.
 
-### Datasets
-The dataset section allows user to donwload annotations and training data.
-![Alt text](./img/Capture4.JPG){: width="36px"}
+### Datasets {#datasets}
+The dataset section allows the user to donwload annotations and training data.
+
+![Alt text](./img/Capture4.JPG){: width="300px"}
 
 Only administrator can create new datasets.
 
