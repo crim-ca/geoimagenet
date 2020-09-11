@@ -2,7 +2,7 @@
 ## Welcome to GeoImageNet Project
 
 
-![Alt text](./img/Capture1.JPG){: width="450px"}
+![Alt text](./img/Capture1.JPG)
 
 ## Creating and Managing Annotations {#annotations}
 
