@@ -33,7 +33,7 @@ Several modes are available:
 
 ### Datasets
 The dataset section allows user to donwload annotations and training data.
-![Alt text](./img/Capture4.JPG)
+![Alt text](./img/Capture4.JPG){: width="36px"}
 
 Only administrator can create new datasets.
 
