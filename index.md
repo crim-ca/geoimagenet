@@ -4,9 +4,9 @@
 
 ![Alt text](./img/Capture1.JPG)
 
-## Creating and Managing Annotations 
+## Creating and Managing Annotations {#annotations}
 
-### Taxonomy Browser
+### Taxonomy Browser {#taxonomy}
 The taxonomy browser shows one or two taxonomies as a tree. By clicking on each class you can access any subclasses. Next to each class name is indicated information about the current annotations (the numbers include all the class children). The circled numbers have different meanings depending on the status of the annotations:
 - Blank: new annotations
 - In light green: annotations released
@@ -17,10 +17,11 @@ The taxonomy browser shows one or two taxonomies as a tree. By clicking on each 
 ![Alt text](./img/Capture2.JPG)
 
 The following icons trigger different actions for the corresponding class (and its children):
-- view the annotations for the corresponding class
-- select this class (and subclasses) in the workspace
-- send the new annotations for vlaidation
+- ![Alt text](./img/selection_10.jpg) view the annotations for the corresponding class
+- ![Alt text](./img/selection_11.jpg) select this class (and subclasses) in the workspace
+- ![Alt text](./img/selection_12.jpg) send the new annotations for validation
 
+### Workspace
 
 ## Managing Models
 
