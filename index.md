@@ -1,3 +1,4 @@
+{::options auto_ids="true" /}
 ## Welcome to GeoImageNet Project
 
 
