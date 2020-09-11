@@ -17,11 +17,19 @@ The taxonomy browser shows one or two taxonomies as a tree. By clicking on each 
 ![Alt text](./img/Capture2.JPG)
 
 The following icons trigger different actions for the corresponding class (and its children):
-- ![Alt text](./img/selection_010.jpg) view the annotations for the corresponding class
-- ![Alt text](./img/selection_011.jpg) select this class (and subclasses) to appear in the workspace
-- ![Alt text](./img/selection_012.jpg) send the new annotations for validation
+- ![Alt text](./img/Selection_010.jpg) view the annotations for the corresponding class
+- ![Alt text](./img/Selection_011.jpg) select this class (and subclasses) to appear in the workspace
+- ![Alt text](./img/Selection_012.jpg) send the new annotations for validation
 
 ### Workspace
+The workspace shows all the annotations for the classes slected in the taxonomy browser.
+![Alt text](./img/Selection_014.jpg)
+Several modes are available:
+- Navigation mode: the user can click on the thumbnails and quickly navigate to the corresponding location
+- Editing mode: the user can edit new annotations only, the vector will appear in blue and a circle will appear along the shape
+- Delete mode: the user can delete new annotations by clicking on the shape, a confirmation dalog will then appear.
+- Release mode: new annotations will be released for validation
+- Validation mode: new annotations that have been released can be validated.
 
 
 ## Managing Models
