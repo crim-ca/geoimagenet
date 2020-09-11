@@ -17,11 +17,12 @@ The taxonomy browser shows one or two taxonomies as a tree. By clicking on each 
 ![Alt text](./img/Capture2.JPG)
 
 The following icons trigger different actions for the corresponding class (and its children):
-- ![Alt text](./img/selection_10.jpg) view the annotations for the corresponding class
-- ![Alt text](./img/selection_11.jpg) select this class (and subclasses) in the workspace
-- ![Alt text](./img/selection_12.jpg) send the new annotations for validation
+- ![Alt text](./img/selection_010.jpg) view the annotations for the corresponding class
+- ![Alt text](./img/selection_011.jpg) select this class (and subclasses) to appear in the workspace
+- ![Alt text](./img/selection_012.jpg) send the new annotations for validation
 
 ### Workspace
+
 
 ## Managing Models
 
