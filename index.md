@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
-last_modified_date: 2020-04-27T17:54:08+0000
+last_modified_date: 2020-09-11T17:54:08+0000
 ---
 <details open markdown="block">
   <summary>
@@ -17,6 +17,11 @@ last_modified_date: 2020-04-27T17:54:08+0000
 
 ## Welcome to GeoImageNet Project
 
+**What**: GeoImageNet is a unique collaborative initiative involving remote sensing researchers, developers of digital research platforms, artificial intelligence experts and professionals dedicated to derive value from satellite imagery.
+
+**How**: By facilitating the creation and download of annotations on Pleiades (50 cm) images. The imagery used to build this database includes more than 10,000 km2 of Pleiades images covering Canada's major cities as well as various other natural and anthropogenic environments (forests, wetlands, mining sites, agricultural areas, etc.). These annotations are based on a taxonomy containing many objects (approx. 180) and land cover types (approx. 50).
+
+**Why**: To promote deep learning research on Earth Observation (EO) data for detection, segmentation and other automated tasks. This will allow researchers from diverse institutions to collaborate in a more structured and effective manner for the application of deep learning in remote sensing and to develop new value-added products based on VHR satellite images. This synergy will facilitate making more progress in research, both in remote sensing applications and in the development of machine learning algorithms.
 
 ![Alt text](./img/Capture1.JPG)
 
