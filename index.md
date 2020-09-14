@@ -57,12 +57,12 @@ Several modes are available:
 ### Datasets {#datasets}
 The dataset section allows the user to donwload annotations and training data.
 
-![Alt text](./img/Capture4.JPG){: width="500px"}
+![Alt text](./img/Capture4.JPG){: width="600px"}
 
 In front of each dataset, you can click on Donwload.
 
 The second panel is for administrators only in order to create new datasets.
-![Alt text](./img/Capture5.JPG){: width="500px"}
+![Alt text](./img/Capture5.JPG){: width="600px"}
 
 
 ## Managing Models
@@ -79,12 +79,13 @@ Two notebooks are available showing how to package a [ResNet](https://github.com
 
 Once the model is packaged, it can be uploaded using the Model user interface on the platform as shown below. 
 
-![Alt text](./img/Capture6.JPG){: width="500px"}
+![Alt text](./img/Capture6.JPG){: width="600px"}
 
-![Alt text](./img/Capture7.JPG){: width="500px"}
+![Alt text](./img/Capture7.JPG){: width="600px"}
 
 ### Benchmarking Page
 
+![Alt text](./img/Capture8.JPG){: width="600px"}
 
 
 ## API {#api}
