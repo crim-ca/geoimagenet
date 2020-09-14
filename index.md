@@ -61,8 +61,8 @@ The dataset section allows the user to donwload annotations and training data.
 
 In front of each dataset, you can click on Donwload.
 
-The second panel is administrator only in order to create new datasets.
-
+The second panel is for administrators only in order to create new datasets.
+![Alt text](./img/Capture5.JPG){: width="450px"}
 
 
 ## Managing Models
@@ -76,6 +76,8 @@ In order to submit a new model to the platform, the steps are the following:
 Two notebooks are available showing how to package a [ResNet](https://github.com/crim-ca/geoimagenet/blob/master/classif_model_packaging.ipynb)  and a [UNet](https://github.com/crim-ca/geoimagenet/blob/master/seg_model_packaging.ipynb).
 
 ### Pushing Models
+
+![Alt text](./img/Capture5.JPG){: width="450px"}
 
 ## API {#api}
 
