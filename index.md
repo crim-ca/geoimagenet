@@ -77,7 +77,12 @@ Two notebooks are available showing how to package a [ResNet](https://github.com
 
 ### Pushing Models
 
-![Alt text](./img/Capture5.JPG){: width="450px"}
+Once the model is packaged, it can be uploaded using the Model user interface on the platform as shown below. 
+![Alt text](./img/Capture6.JPG){: width="450px"}
+
+### Benchmarking
+
+![Alt text](./img/Capture7.JPG){: width="450px"}
 
 ## API {#api}
 
