@@ -25,7 +25,6 @@ last_modified_date: 2020-09-11T17:54:08+0000
 
 ![Alt text](./img/Capture1.JPG)
 
-
 ## Creating and Managing Annotations {#annotations}
 
 ### Taxonomy Browser {#taxonomy}
@@ -57,12 +56,13 @@ Several modes are available:
 ### Datasets {#datasets}
 The dataset section allows the user to donwload annotations and training data.
 
-![Alt text](./img/Capture4.JPG){: width="600px"}
+![Alt text](./img/Capture4.JPG){: width="800px"}
 
 In front of each dataset, you can click on Donwload.
 
 The second panel is for administrators only in order to create new datasets.
-![Alt text](./img/Capture5.JPG){: width="600px"}
+
+![Alt text](./img/Capture5.JPG){: width="800px"}
 
 
 ## Managing Models
@@ -79,14 +79,13 @@ Two notebooks are available showing how to package a [ResNet](https://github.com
 
 Once the model is packaged, it can be uploaded using the Model user interface on the platform as shown below. 
 
-![Alt text](./img/Capture6.JPG){: width="600px"}
+![Alt text](./img/Capture6.JPG){: width="800px"}
 
-![Alt text](./img/Capture7.JPG){: width="600px"}
+![Alt text](./img/Capture7.JPG){: width="800px"}
 
 ### Benchmarking Page
 
-![Alt text](./img/Capture8.JPG){: width="600px"}
-
+![Alt text](./img/Capture8.JPG){: width="800px"}
 
 ## API {#api}
 
