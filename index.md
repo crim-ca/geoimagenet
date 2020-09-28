@@ -64,6 +64,14 @@ The second panel is for administrators only in order to create new datasets.
 
 ![Alt text](./img/Capture5.JPG){: width="800px"}
 
+### Annotation Validation
+The validation mode is available for people in charge of annotators. Once classes are selected in the taxonomy, they are shown in the workspace:
+
+![Alt text](./img/Screenshot-2020-09-28T18_59_02.324Z.png){: width="800px"}
+
+Once in validation mode, individual annotations can be validated (green icon) or rejected (red icon). By default, all annotations are accepted.
+
+![Alt text](./img/Screenshot-2020-09-28T19_00_53.068Z.png){: width="400px"}
 
 ## Managing Models
 
