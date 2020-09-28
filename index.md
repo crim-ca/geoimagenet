@@ -65,7 +65,7 @@ The second panel is for administrators only in order to create new datasets.
 ![Alt text](./img/Capture5.JPG){: width="800px"}
 
 ### Annotation Validation
-The validation mode is available only for people in charge of annotators, it can be activated with the ![Alt text](./img/validate.JPG){: width="10px"} mark. Once classes are selected in the taxonomy, they are shown in the workspace:
+The validation mode is available only for people in charge of annotators, it can be activated with the ![Alt text](./img/validate.JPG){: width="15px"} icon. Once classes are selected in the taxonomy, they are shown in the workspace:
 
 ![Alt text](./img/Screenshot-2020-09-28T18_59_02.324Z.png){: width="600px"}
 
